@@ -5,4 +5,11 @@ body
 #box {
   height: 100px;
   background-color: green
+  margin: center;
+}
+
+#witebx {
+  height: 200px;
+  background-color: white
+  margin: center;
 }
