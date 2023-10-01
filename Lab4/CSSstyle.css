@@ -11,7 +11,8 @@ body
   background-color: green;
 }
 
-.border {
+.borderr {
   background-color: green;
   margin: 10px 1px 15px 50pc;
+  border:  border:4px dashed black;
 }
