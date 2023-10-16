@@ -5,3 +5,37 @@ body {
 .imblue {
   color: Red;
 }
+
+.moveitmoveit {
+  font-size: 30px;
+  font-style: italic;
+  font-variant: all-petite-caps;
+}
+
+ .relativeturtle {
+   position: relative;
+   margin: 30px;
+   border: 10px red solid;
+   padding: 60px;
+   background-color: pink;
+ }
+
+.absolutecheese {
+  position: absolute;
+  left: 40px;
+}
+
+.friend {
+  font-weight: bolder;
+  position: fixed;
+   left : 500px;
+}
+
+div p{
+  background-color: yellow;
+}
+
+div > p{
+  background-color: red;
+
+}
