@@ -3,20 +3,21 @@ html {
 }
 body
 {
-  background-color: #10E7F9;
+  background-color: #5341E8;
 
 
 }
 
-.bingley {
+.realbing {
 
   position: fixed;
 
 }
 
 .header {
-  background-color: #0080FF;
+
+  background-color: #0DE54F;
   padding: 10px;
   text-align: center;
-  color: #FFFFFF;
+  color: #000000;
 }
