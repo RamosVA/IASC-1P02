@@ -1,2 +1,2 @@
-var myAlerts = alert("bingley wants to know your location")
+var myAlerts = alert("Bingley wants to know your location")
 console.log(myAlerts);
