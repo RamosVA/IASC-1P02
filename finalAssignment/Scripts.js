@@ -1,2 +1,7 @@
-  var myAlert = alert("Bingley knows your location")
-  console.log(myAlert);
+
+
+
+
+
+var myAlert = alert("Bingley would like to know your location")
+console.log(myAlert);
