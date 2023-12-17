@@ -11,7 +11,7 @@ body
 .Ramoids {
 
   position: relative;
-
+  left: 500px;
 }
 
 .header {
@@ -20,4 +20,26 @@ body
   padding: 10px;
   text-align: center;
   color: #000000;
+}
+
+#suprise3 {
+
+  border: 10px green solid;
+  padding: 60px;
+  background-color: white;
+}
+
+#footer3 {
+
+  background-color: #15981B;
+  padding: 100px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+#status {
+
+  background-color: #4CBBCF;
+  padding: 10px;
+  color: #FFFFFF;
 }

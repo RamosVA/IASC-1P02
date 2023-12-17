@@ -10,8 +10,8 @@ body
 
 .realbing {
 
-  position: fixed;
-
+  position: relative;
+  left: 600px;
 }
 
 .header {
@@ -20,4 +20,19 @@ body
   padding: 10px;
   text-align: center;
   color: #000000;
+}
+
+#text {
+
+  border: 10px green solid;
+  padding: 60px;
+  background-color: white;
+}
+
+#footer2 {
+
+  background-color: #005B17;
+  padding: 100px;
+  text-align: center;
+  color: #FFFFFF;
 }

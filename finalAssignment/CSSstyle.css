@@ -10,13 +10,53 @@ body
 
 .bingley {
 
-  position: fixed;
+  position: relative;
+  left: 600px;
 
 }
 
 .header {
   background-color: #0080FF;
   padding: 10px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+#suprise {
+
+  border: 10px teal solid;
+  padding: 60px;
+  background-color: white;
+}
+
+#question {
+  background-color: #0080FF;
+  padding: 10px;
+  color: #FFFFFF;
+
+}
+
+#question2 {
+
+  background-color: #0080FF;
+  padding: 10px;
+  color: #FFFFFF;
+
+}
+
+#theDate {
+
+  background-color: #0080FF;
+  padding: 10px;
+  color: #FFFFFF;
+
+}
+
+
+#footer {
+
+  background-color: #003F5B;
+  padding: 100px;
   text-align: center;
   color: #FFFFFF;
 }
